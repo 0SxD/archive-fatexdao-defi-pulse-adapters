@@ -1,5 +1,7 @@
 # DeFi Pulse Project Templates
 
+> Personal archive fork by Sage / 0SxD. See ARCHIVE_NOTICE.md for prior-associations disclaimer and current research continuity.
+
 Welcome to the DeFiPulse Project Template Repository! This purpose of this repo is to allow 3rd party developers to build, validate and update their own project adapter for DeFi Pulse in order to allow a higher volume of projects to be added and maintained over time.
 
 # How to Get Listed on DeFi Pulse
